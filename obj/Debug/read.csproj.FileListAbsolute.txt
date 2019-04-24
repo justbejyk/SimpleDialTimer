@@ -1,0 +1,8 @@
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\bin\Debug\read.exe.config
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\bin\Debug\read.exe
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\bin\Debug\read.pdb
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\obj\Debug\read.csprojResolveAssemblyReference.cache
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\obj\Debug\read.MainForm.resources
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\obj\Debug\read.csproj.GenerateResource.Cache
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\obj\Debug\read.exe
+C:\Users\quinnc\Documents\SharpDevelop Projects\read\read\obj\Debug\read.pdb
